@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betosan83&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-- 🔭 Working for 7 years at Dataprev with Java backend in numerous projects.
+- 🔭 Working for about 7 years at Dataprev with Java backend in numerous projects.
 - 🌱 Studying a lot of front-end tecnologies, such as Javascript with React.js and Next.js.
 
 
