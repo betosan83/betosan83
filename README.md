@@ -6,7 +6,7 @@
 </div>
 
 - 🔭 Working for about 8 years at Dataprev with Java backend in numerous projects.
-- 🌱 Studying a lot of front-end tecnologies, such as Javascript with React.js using Next.js.
+- 🌱 Studying many front-end tecnologies, such as Javascript with React.js using Next.js.
 
 
 <div style="display: inline_block"><br>
